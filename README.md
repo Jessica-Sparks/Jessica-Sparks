@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jessica-Sparks
 - 👀 I’m interested in ... Learning
 - - Look @ me go
-- 🌱 I’m currently learning ... Everything I can about front end development
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... swirly1995@gmail.com 
 
